@@ -1,0 +1,19 @@
+{
+    "name": "tharshan/examen_git_01_02",
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "friendsofphp/php-cs-fixer": "^2.0"
+    },
+    
+    "autoload":{
+        "psr-4":{
+            "" : "src/"
+      },
+       
+    "authors": [
+        {
+            "name": "TharshanSIVAPALAN",
+            "email": "sivapalan.tharshan@gmail.com"
+        }
+    ]
+}
