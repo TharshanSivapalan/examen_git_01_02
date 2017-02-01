@@ -1,4 +1,6 @@
 # examen_git_01_02
+Tharshan SIVAPALAN 3IW2
+email:sivapalan.tharshan@gmail.com
 
 Pour ce faire vous devrez :
 -	Initialser un projet versionner avec git et versionner proprement chaque commit.
